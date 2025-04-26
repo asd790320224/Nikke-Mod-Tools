@@ -48,7 +48,7 @@ NMM/mods/**📁lobby/**	# 放置爆裂动画mod，如没有该文件夹需自行
 
 NMM/**📁resources/**	# 存放有NAU、catalog等文件，NMM小版本升级到零件变化也存放于此
 
-NMM/deps/nkab/**📁NKAB/dist/📄 hi_shiftup_dont_mind_me.js**	# 据说把NKAB文件夹移至nikke.exe目录下可以避免mod失效
+NMM/deps/nkab/**📁NKAB/dist/📄 hi_shiftup_dont_mind_me.js**	# 把NKAB文件夹移至nikke.exe目录下进行覆盖
 
 NMM/**📄 settings.json**	# 存储个人数据、NMMmod启用情况
 
@@ -99,7 +99,7 @@ NMM/**📄 settings.json**	# 存储个人数据、NMMmod启用情况
 
 ### 工具介绍
 
-​	由**kxdekxde（KXDƎ）**提供，用于**检索lobby或burst动画对应的parent folder**（动画文件的存储路径为com_proximabeta_NIKKE /parents /child /__data）
+​	由**kxdekxde（KXDƎ）**提供，用于**检索lobby或burst动画对应的parent folder**（动画文件的存储路径为：com_proximabeta_NIKKE /parents /child /__data）
 
 ​	因为com_proximabeta_NIKKE目录下有很多个parent folder，而每个parent folder下只有一个child folder，所以只需要定位好parent folder便可锁定到data的具体位置。
 
@@ -138,7 +138,7 @@ NMM/**📄 settings.json**	# 存储个人数据、NMMmod启用情况
 
 ### 工具介绍
 
-​	由**gjopin**提供，用于**检索将0.2.1以前的nikke mod进行一键repack**。具体使用说明已置于/Mod Repack Script/README中。
+​	由**gjopin**提供，用于**将nmm0.2以前的nikke mod进行一键repack**。使用说明已置于/Mod Repack Script/README中。
 
 ------
 
@@ -168,7 +168,7 @@ NMM/**📄 settings.json**	# 存储个人数据、NMMmod启用情况
 
 ​	优点：**①Mod质量极高**；**②有free mod提供**；③完全没有架子
 
-​	缺点：①订阅路径过于偏僻（要DM他，然后才告诉你订阅途径）；②已经停止做nikke的mod了（转战bd2了，质量依旧）
+​	缺点：①订阅路径过于偏僻（要DM他，然后才告诉你订阅途径）；②已停做nikke的mod了（转战bd2了）
 
 ​	免费mod：[Mr.Miagi Free Mods](https://mega.nz/folder/hO0AGR7J#0jsXQowsICRA_5EVJbTN0A)
 
@@ -178,7 +178,7 @@ NMM/**📄 settings.json**	# 存储个人数据、NMMmod启用情况
 
 ​	优点：①产能集中于nikke；**②有free mod提供**；**③有爆裂动画mod提供**；④开始逐步提供icons mod
 
-​	缺点：①订阅要求严苛（无按月订购，仅有半终生会员制和终生会员制，一次消费过大）；②mod质量水平起伏较大；③部分细节处理不太好
+​	缺点：①订阅要求严苛（无按月订购，一次消费过大）；②mod质量水平起伏较大；③部分细节处理不太好
 
 ​	免费mod：[Na0h的discord](https://discord.com/invite/wBJQ6gXz2U)
 
@@ -188,7 +188,7 @@ NMM/**📄 settings.json**	# 存储个人数据、NMMmod启用情况
 
 ​	优点：**①利用AI辅助，具备超高产能**；②Mod质量稳定；③有爆裂动画mod提供；④有icons mod提供；**⑤可以按月订购Patreon**
 
-​	缺点：①mod有明显AI痕迹（但妮游本身就...）；②部分mod的XP较重口；③业务太多，bd2更像是主业；④无免费mod
+​	缺点：①mod有明显AI痕迹（但妮游本身就...）；②部分mod的XP较重口；③业务太多；④无免费mod
 
 ​	免费mod：无
 
