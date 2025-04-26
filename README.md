@@ -138,7 +138,7 @@ NMM/**📄 settings.json**	# 存储个人数据、NMMmod启用情况
 
 ### 工具介绍
 
-​	由**gjopin**提供，用于**将适用于NMMv0.2及之前的nikke mod进行repack**。说明已置于/Mod Repack Script/README中。
+​	由**gjopin**提供，用于**将适用于NMMv0.2及之前的mod进行repack**。说明已置于/Mod Repack Script/README中。
 
 ------
 
