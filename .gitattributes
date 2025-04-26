@@ -1,3 +1,4 @@
 NMMv0.3.2/resources/app.asar filter=lfs diff=lfs merge=lfs -text
 NMMv0.3.2.zip filter=lfs diff=lfs merge=lfs -text
 download/NMMv0.3.2.zip filter=lfs diff=lfs merge=lfs -text
+NMMv0.3.2/nikke-modmanager.exe filter=lfs diff=lfs merge=lfs -text
