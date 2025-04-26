@@ -95,7 +95,7 @@ NMM/**📄 settings.json**	# 存储个人数据、NMMmod启用情况
 
 
 
-## 2. Nikke Modeling （by KXDƎ）
+## 2. Nikke Modeling（by KXDƎ）
 
 ### 工具介绍
 
@@ -124,7 +124,7 @@ NMM/**📄 settings.json**	# 存储个人数据、NMMmod启用情况
 ​	json文件获取方式：
 
 1. 加入dc的discord：**Destiny Child International**（[邀请链接](https://discord.gg/destiny-child-international-241679077658984448)）
-2. 进入到**/Nikke/nikke-no-mobile-modding-chat**中可以找到上述三类json文件，**注意只用新不用旧**。（可以结合关键词”catalog“进行搜索）
+2. 进入到/Nikke/nikke-no-mobile-modding-chat中可以找到上述三类json文件，**注意只用新不用旧**。（可以结合关键词”catalog“进行搜索）
 
 ### 网站
 
@@ -138,7 +138,7 @@ NMM/**📄 settings.json**	# 存储个人数据、NMMmod启用情况
 
 ### 工具介绍
 
-​	由**gjopin**提供，用于**将nmm0.2以前的nikke mod进行一键repack**。使用说明已置于/Mod Repack Script/README中。
+​	由**gjopin**提供，用于**将适用于NMMv0.2及之前的nikke mod进行repack**。说明已置于/Mod Repack Script/README中。
 
 ------
 
@@ -148,7 +148,7 @@ NMM/**📄 settings.json**	# 存储个人数据、NMMmod启用情况
 
 ### 工具介绍
 
-​	由**DC里的热心众人**所编辑而成，下至使用mod上至拆包建模，想深入了解Nikke Mod的话是必须得通读该文的。
+​	由**discord里的mod lovers**所编辑而成，内容下至用mod修mod、上至改mod建mod。
 
 ### 网站
 
@@ -200,7 +200,7 @@ NMM/**📄 settings.json**	# 存储个人数据、NMMmod启用情况
 
 ​	缺点：①产能严重不足（毕竟免费的，还能苛责人家啥呢）；
 
-​	免费mod：[NIKKE Community](https://discord.gg/nikke)
+​	免费mod：[NIKKE Community](https://discord.gg/nikke) （核心大群，里面包含很多其他的免费mod / mod预览 / mod交流）
 
 #### T2：Seireiko
 
