@@ -22,9 +22,9 @@
 
 
 
-### 1. Nikke Mod Manager (main)（by Danieru & Na0h & ...）
+## 1. Nikke Mod Manager (main)（by Danieru & Na0h & ...）
 
-##### 工具介绍
+### 工具介绍
 
 ​	放入mod一键激活，几乎**支持除了爆裂动画mod以外的一切mod的一键自动应用**。当前NMM版本为v0.3.2，由**alkhdaniel（Danieru）**负责主体开发，**na0h.（Na0h）**负责精修（如加入mod分类和mod预览功能），因此该mod目前支持：
 
@@ -36,27 +36,25 @@
 
 ​	已经能够完全使用nikke的所有类型的mod了。
 
-##### 使用方法
+### 使用方法
 
-###### nmm文件夹布局
+#### NMM文件夹布局
 
-📁 Nikke Mod Manager/
-├── 📁 mods/          *# 放置形体mod的部分*
-	├── 📁 icons/          *# 放置头像mod，如没有该文件夹需自行创建*
-	├── 📁 lobby/          *# 放置爆裂动画mod，如没有该文件夹需自行创建*
-├── 📁 resources/          *# 存放有NAU、catalog等资源，精修升级的主要地方*
-├── 📁 deps/
-	├── 📁 nkab/ 
-		├── 📁 NKAB/          *# 据说把该文件夹移至nikke.exe目录下可以避免mod失效*
-        		├── 📁 dist/
-        			├── 📄 hi_shiftup_dont_mind_me.js
-├── 📁 Other/          *# 其他文件夹*
-└── 📄 settings.json           *# 存储个人数据*
-└── 📄 other          *# 其他数据*
+NMM/**📁mods/**	 *# 放置形体mod的部分*
 
+NMM/mods/**📁icons/**	# 放置头像mod，如没有该文件夹需自行创建
 
+NMM/mods/**📁lobby/**	# 放置爆裂动画mod，如没有该文件夹需自行创建
 
-###### mods文件夹中的命名格式
+NMM/**📁resources/**	# 存放有NAU、catalog等文件，NMM小版本升级到零件变化也存放于此
+
+NMM/deps/nkab/**📁NKAB/dist/📄 hi_shiftup_dont_mind_me.js**	# 据说把NKAB文件夹移至nikke.exe目录下可以避免mod失效
+
+NMM/**📄 settings.json**	# 存储个人数据、NMMmod启用情况
+
+其他文件夹和文件作用可忽略不计。
+
+#### mods文件夹中的命名格式
 
 **{角色编号}** _ **{服装编号}** _ **{形体状态}** _ {作者} _ {其他}
 
@@ -73,7 +71,7 @@
 
 
 
-###### icons文件夹中的命名格式
+#### icons文件夹中的命名格式
 
 如不想将icons放置到mods文件夹中，可以移至mods/icons文件夹中，需将mod重命名为：
 
@@ -85,7 +83,7 @@
 
 
 
-###### lobby文件夹中的命名格式
+#### lobby文件夹中的命名格式
 
 **{角色编号}** _ **{服装编号}** _ **{lobby/burst}** _ {作者} _ {其他}
 
@@ -97,15 +95,15 @@
 
 
 
-### 2. Nikke Modeling （by KXDƎ）
+## 2. Nikke Modeling （by KXDƎ）
 
-##### 工具介绍
+### 工具介绍
 
 ​	由**kxdekxde（KXDƎ）**提供，用于**检索lobby或burst动画对应的parent folder**（动画文件的存储路径为com_proximabeta_NIKKE /parents /child /__data）
 
 ​	因为com_proximabeta_NIKKE目录下有很多个parent folder，而每个parent folder下只有一个child folder，所以只需要定位好parent folder便可锁定到data的具体位置。
 
-##### 网站
+### 网站
 
 ​	**https://kxdekxde.github.io/nikke/** （可能会出现网页加载错误的情况，但不影响正常使用）
 
@@ -113,9 +111,9 @@
 
 
 
-### 3. Nikke File Finder（by A1teri）
+## 3. Nikke File Finder（by A1teri）
 
-##### 工具介绍
+### 工具介绍
 
 ​	由**A1teri（a1ter0）**提供，用于**检索nikke中绝大部分的文件**（包括HD和SD的，甚至包括声音的）。用法：
 
@@ -128,7 +126,7 @@
 1. 加入dc的discord：**Destiny Child International**（[邀请链接](https://discord.gg/destiny-child-international-241679077658984448)）
 2. 进入到**/Nikke/nikke-no-mobile-modding-chat**中可以找到上述三类json文件，**注意只用新不用旧**。（可以结合关键词”catalog“进行搜索）
 
-##### 网站
+### 网站
 
 ​	**https://a1ter00.github.io/nikke-file-finder/**
 
@@ -136,9 +134,9 @@
 
 
 
-### 4. Nikke Mod Repack（by gjopin）
+## 4. Nikke Mod Repack（by gjopin）
 
-##### 工具介绍
+### 工具介绍
 
 ​	由**gjopin**提供，用于**检索将0.2.1以前的nikke mod进行一键repack**。具体使用说明已置于/Mod Repack Script/README中。
 
@@ -146,13 +144,13 @@
 
 
 
-### 5. Guide to Everything Related to NIKKE Mods（by Nikke Mod Lovers）
+## 5. Guide to Everything Related to NIKKE Mods（by Nikke Mod Lovers）
 
-##### 工具介绍
+### 工具介绍
 
 ​	由**DC里的热心众人**所编辑而成，下至使用mod上至拆包建模，想深入了解Nikke Mod的话是必须得通读该文的。
 
-##### 网站
+### 网站
 
 ​	[**Guide to Everything Related to NIKKE Mods**](https://docs.google.com/document/d/1DIhn_XsvG9qBpTln7WoaRolq7VdFoDFKR5R103P_FkM/edit?tab=t.0#heading=h.p3n8pwhprphm)
 
@@ -160,11 +158,11 @@
 
 
 
-### 6. Nikke Mod
+## 6. Nikke Mod
 
-##### 介绍
+### 介绍
 
-###### T0：Mr.Miagi（MM）
+#### T0：Mr.Miagi（MM）
 
 ​	总结：伟大，无需多言。
 
@@ -174,7 +172,7 @@
 
 ​	免费mod：[Mr.Miagi Free Mods](https://mega.nz/folder/hO0AGR7J#0jsXQowsICRA_5EVJbTN0A)
 
-###### T1：Na0h
+#### T1：Na0h
 
 ​	总结：开创了lobby/burst动画mod的新时代（那个皇冠的就是他做的free mod）。
 
@@ -184,7 +182,7 @@
 
 ​	免费mod：[Na0h的discord](https://discord.com/invite/wBJQ6gXz2U)
 
-###### T1：Yuk11sh1d4
+#### T1：Yuk11sh1d4
 
 ​	总结：开创了AI辅助创mod的新时代。
 
@@ -194,7 +192,7 @@
 
 ​	免费mod：无
 
-###### T1：117il3
+#### T1：117il3
 
 ​	总结：新秀，实力很够，但实例不够。
 
@@ -204,11 +202,11 @@
 
 ​	免费mod：[NIKKE Community](https://discord.gg/nikke)
 
-###### T2：Seireiko
+#### T2：Seireiko
 
 ​	总结：很早就开始做nikke mod了，但我对他的作画风格不是很感兴趣~
 
-###### T3：gjopin & El-Caudillo & KXDƎ
+#### T3：gjopin & El-Caudillo & KXDƎ
 
 ​	总结：这类大概率是不做mod本身的创作的，而是进行Spine服饰分解或者做Swap Mod、Effect Remove相关的~
 
@@ -220,7 +218,7 @@
 
 ​		KXDƎ：https://www.mediafire.com/folder/4jzzho4lkcltq/NIKKE_MODS
 
-###### T？：Housou
+#### T？：Housou
 
 ​	总结：这位的画风和色彩...怎么说呢，完全踩我雷点上了...不做评价。
 
@@ -228,4 +226,6 @@
 
 
 
-### 未完待续
+## 未完待续
+
+​	TestMod中有现版本可用的mod，可以试一下（我自用的，大部分是free mod）
